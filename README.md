@@ -2,7 +2,7 @@
 
 An interactive Power BI Dashboard designed to analyze Motorola mobile sales performance across different cities, models, payment methods, customer ratings, and sales trends.
 
-![Dashboard Preview](images/Dashboard_Project.jpeg)
+![Dashboard Preview](images/Dashboard_img.jpeg)
 
 ---
 
@@ -105,7 +105,7 @@ Motorola-Sales-Dashboard/
 
 ## 📸 Dashboard Snapshot
 
-![Motorola Dashboard](images/Dashboard_Project.jpeg)
+![Motorola Dashboard](images/Dashboard_img.jpeg)
 
 ---
 
