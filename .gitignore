@@ -1,0 +1,31 @@
+# Power BI cache and temporary files
+*.tmp
+*.bak
+*.log
+
+# Auto recovery files
+*.pbix.autorecovery
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Python (if used for data preprocessing)
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Large exported data files
+*.csv
+*.xlsx
+*.xls
